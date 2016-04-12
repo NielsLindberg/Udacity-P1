@@ -1,0 +1,17 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+* Well I did kinda go through the same learnings when i did the 'About Me' project that has been removed recently. I did however focus on the feedback i got from that project and tried to use the HTML5 semantic elements more this time around.
+
+* Since i already knew most of the stuff everything was very easy and more a matter of refreshing some stuff and getting alittle better at using HTML5 elements.
+
+* Nothing really, but as I said i already had gone through similar material
+
+* Hard to say, didn't have any big challenges. Used the element reference and the HTML5 outline guide on Mozilla.
